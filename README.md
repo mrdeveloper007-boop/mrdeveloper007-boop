@@ -80,9 +80,9 @@
 - **[JB Hi-Fi](https://www.jbhifi.com.au/)** — Shopify Plus dynamic feature development — custom sections/blocks, metafield-driven UI, Online Store 2.0 architecture
 - **[Lusta Hair](https://lustahair.com/)** — Custom dynamic theme development — Online Store 2.0 sections, metafield/metaobject-powered features, AJAX cart flows
 - **[Huski Coolers](https://www.huskicoolers.com/)** — Custom dynamic storefront development — section-based architecture, dynamic UI components, Section Rendering API
-- **Kiddospace by Simone Nanni** — full storefront revamp, metafield/metaobject-powered features, advanced filtering, AOV uplift via ReConvert/AfterSell
+- **[The Kiddospace](https://thekiddospacestore.com/)** by Simone Nanni — international store with 42+ locations worldwide; full storefront revamp, metafield/metaobject-powered features, advanced filtering, AOV uplift via ReConvert/AfterSell
 - **Scrubser** — Dawn storefront built from scratch, multi-level brand navigation, Shopify-native filtering/facets, dynamic homepage sections
-- **ValleyEyeWear** — custom lens-bundle product page with dynamic pricing logic, virtual try-on integration, custom mega-menu
+- **[ValleyEyeWear](https://valleyeyewear.com/)** — custom lens-bundle product page with dynamic pricing logic, virtual try-on integration, custom mega-menu
 
 ---
 
