@@ -76,23 +76,23 @@
 
 ### 🛍 Notable Shopify Client Work
 
-- **[Fashionphile](https://www.fashionphile.com/)** — 12+ custom Dawn pages, "Is This Authentic?" interactive game page in vanilla JS, section-within-section rendering
-- **[JB Hi-Fi](https://www.jbhifi.com.au/)** — Shopify Plus storefront customization
-- **[Lusta Hair](https://lustahair.com/)** — Shopify theme development & customization
-- **[Huski Coolers](https://www.huskicoolers.com/)** — Shopify storefront work
-- **Kiddospace by Simone Nanni** — full storefront revamp, metafield/metaobject-powered features, AOV uplift via ReConvert/AfterSell
-- **Scrubser** — Dawn storefront from scratch, multi-level brand navigation, Shopify-native filtering/facets
-- **ValleyEyeWear** — custom lens-bundle product page with dynamic pricing, virtual try-on integration
+- **[Fashionphile](https://www.fashionphile.com/)** — 12+ custom Dawn pages, "Is This Authentic?" interactive game built in vanilla JS, section-within-section rendering via Section Rendering API
+- **[JB Hi-Fi](https://www.jbhifi.com.au/)** — Shopify Plus dynamic feature development — custom sections/blocks, metafield-driven UI, Online Store 2.0 architecture
+- **[Lusta Hair](https://lustahair.com/)** — Custom dynamic theme development — Online Store 2.0 sections, metafield/metaobject-powered features, AJAX cart flows
+- **[Huski Coolers](https://www.huskicoolers.com/)** — Custom dynamic storefront development — section-based architecture, dynamic UI components, Section Rendering API
+- **Kiddospace by Simone Nanni** — full storefront revamp, metafield/metaobject-powered features, advanced filtering, AOV uplift via ReConvert/AfterSell
+- **Scrubser** — Dawn storefront built from scratch, multi-level brand navigation, Shopify-native filtering/facets, dynamic homepage sections
+- **ValleyEyeWear** — custom lens-bundle product page with dynamic pricing logic, virtual try-on integration, custom mega-menu
 
 ---
 
-### 🌐 WordPress Projects
+### 🌐 WordPress Development
 
-- **[Porter & York](https://porterandyork.com/)**
-- **[Brodo](https://www.brodo.com/)**
-- **[Rodeo Labs](https://rodeo-labs.com/)**
-- **[Vape Bar](https://vapebar.pk/)**
-- **[Landyachtz](https://landyachtz.com/)**
+- **[Porter & York](https://porterandyork.com/)** — Custom WordPress development
+- **[Brodo](https://www.brodo.com/)** — Custom WordPress development
+- **[Rodeo Labs](https://rodeo-labs.com/)** — Custom WordPress development
+- **[Vape Bar](https://vapebar.pk/)** — Custom WordPress development
+- **[Landyachtz](https://landyachtz.com/)** — Custom WordPress development
 
 ---
 
