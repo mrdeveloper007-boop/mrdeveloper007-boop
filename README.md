@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://my-portfolio-teal-tau-98.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live-22c55e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://my-portfolio-shopify.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live-22c55e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/qadeer-ghaffar-665430197"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:mr.developer38@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://wa.me/923134503753"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
@@ -49,6 +49,7 @@
   <img src="https://img.shields.io/badge/Remix-000000?style=flat&logo=remix&logoColor=white" alt="Remix"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" alt="GraphQL"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" alt="WordPress"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
@@ -73,25 +74,37 @@
 
 ---
 
-### 🌍 Notable Client Work
+### 🛍 Notable Shopify Client Work
 
-- **Fashionphile** (via Integriti) — 12+ custom Dawn pages, "Is This Authentic?" interactive game page in vanilla JS, section-within-section rendering
-- **Kiddospace** by Simone Nanni (via PrimeTK) — full storefront revamp, metafield/metaobject-powered features, AOV uplift via ReConvert/AfterSell
-- **Scrubser** (via BrainSpate) — Dawn storefront from scratch, multi-level brand navigation, Shopify-native filtering/facets
-- **Shopify Ammarah Khan** (via DMS) — mega menu, structured product info via metafields, Search & Discovery filtering
-- **ValleyEyeWear** (freelance) — custom lens-bundle product page with dynamic pricing, virtual try-on integration
+- **[Fashionphile](https://www.fashionphile.com/)** — 12+ custom Dawn pages, "Is This Authentic?" interactive game page in vanilla JS, section-within-section rendering
+- **[JB Hi-Fi](https://www.jbhifi.com.au/)** — Shopify Plus storefront customization
+- **[Lusta Hair](https://lustahair.com/)** — Shopify theme development & customization
+- **[Huski Coolers](https://www.huskicoolers.com/)** — Shopify storefront work
+- **Kiddospace by Simone Nanni** — full storefront revamp, metafield/metaobject-powered features, AOV uplift via ReConvert/AfterSell
+- **Scrubser** — Dawn storefront from scratch, multi-level brand navigation, Shopify-native filtering/facets
+- **ValleyEyeWear** — custom lens-bundle product page with dynamic pricing, virtual try-on integration
+
+---
+
+### 🌐 WordPress Projects
+
+- **[Porter & York](https://porterandyork.com/)**
+- **[Brodo](https://www.brodo.com/)**
+- **[Rodeo Labs](https://rodeo-labs.com/)**
+- **[Vape Bar](https://vapebar.pk/)**
+- **[Landyachtz](https://landyachtz.com/)**
 
 ---
 
 ### 📫 Get in Touch
 
-- 🌐 Portfolio — **[my-portfolio-teal-tau-98.vercel.app](https://my-portfolio-teal-tau-98.vercel.app/)**
-- 💼 LinkedIn — **[qadeer-ghaffar](https://www.linkedin.com/in/qadeer-ghaffar-665430197)**
+- 🌐 Portfolio — **[my-portfolio-shopify.vercel.app](https://my-portfolio-shopify.vercel.app/)**
+- 💼 LinkedIn — **[Abdul Qadeer](https://www.linkedin.com/in/qadeer-ghaffar-665430197)**
 - 📧 Email — **[mr.developer38@gmail.com](mailto:mr.developer38@gmail.com)**
 - 📱 WhatsApp — **[+92 313 4503753](https://wa.me/923134503753)**
 
 ---
 
 <p align="center">
-  <em>Open for Shopify Plus theme work, custom apps, and Checkout Extensibility projects.</em>
+  <em>Open for Shopify Plus theme work, custom apps, Checkout Extensibility, and WordPress projects.</em>
 </p>
